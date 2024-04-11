@@ -1,2 +1,1 @@
-# cryptography
-Open Stack CourseWork
+# Cryptography
